@@ -1,1 +1,1 @@
-<h1>This ia Soft Skill Repo</h1>
+<h1>This is Soft Skill Repo</h1>
